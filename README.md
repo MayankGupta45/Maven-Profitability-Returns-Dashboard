@@ -48,6 +48,5 @@ This repository features a powerful and interactive Power BI dashboard designed 
 - Clone or Download this repository.
 - Open the PBIX file in Power BI Desktop.
 - Use filters for time period, product categories, or regions to explore financial health.
-
-Leverage findings to enhance profitability and manage returns effectively.
+- Leverage findings to enhance profitability and manage returns effectively.
 
